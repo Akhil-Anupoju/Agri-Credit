@@ -80,14 +80,10 @@ Contributions are welcome! Please follow these steps to contribute to the projec
    ```
 5. Create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any inquiries or feedback, please reach out to:
-- **Akhil Anupoju** - [Your Email]
+- **Akhil Anupoju** - [anupojuakhil@gmail.com]
 - **GitHub** - [Akhil-Anupoju](https://github.com/Akhil-Anupoju)
 
 ---
